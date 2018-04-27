@@ -6,7 +6,14 @@ works with
 [![Language](https://img.shields.io/badge/swift-4-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/platform-iOS%2011-green.svg)](https://developer.apple.com/ios/)
 
-Topics that will be learned :D 
+------
+
+## Finished App
+<img src="https://github.com/Yuweh/Anagrams-Starter1-Complete/blob/master/Anagram%20Starter%201%20Complete.png" width="500">
+
+------
+
+### Topics that will be learned :D 
 
 Proper model-view-controller (MVC) game structure.
 
@@ -30,6 +37,11 @@ Upgrading default UIKit components to game-like components.
 
 Also included: discussion of the software tools I use along the way when I’m creating a game. :]
 
+------
+
+[![forthebadge](http://forthebadge.com/images/badges/made-with-swift.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
+-----
 
 Referrence: https://www.raywenderlich.com/77981/make-letter-word-game-uikit-swift-part-1
 
